@@ -1,4 +1,4 @@
-# clase-de-github
+# clase-de-github - en la rama innova4j
 Este es un ejemplo para aprender
 
 Una vez instalado GIT, se debe configurar:
